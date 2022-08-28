@@ -48,6 +48,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("CTS CDX0102 Data Added");
             l.Add("New CDX0102 modified");
             l.Add("BALA");
+            l.Add("New edit");
             return l;
         }
     }
