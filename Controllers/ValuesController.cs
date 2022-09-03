@@ -49,6 +49,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("New CDX0102 modified");
             l.Add("BALA");
             l.Add("New edit");
+            l.Add("Updated");
             return l;
         }
     }
